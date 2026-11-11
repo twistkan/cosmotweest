@@ -1,0 +1,25 @@
+# Player profiles stay private. Keep only the marker for a fresh portable profile.
+/Data/*
+!/Data/portable.mode
+
+# Executables are distributed through GitHub Releases.
+/CosmoTweest.exe
+/CosmoTweestSetup.exe
+
+# Local QA, downloaded publishing tools, logs and build intermediates.
+/Source/tests/*
+!/Source/tests/Verify.ps1
+/Source/build-staging/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+
+# Never commit credentials or signing keys.
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key

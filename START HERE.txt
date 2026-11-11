@@ -1,0 +1,49 @@
+COSMOTWEEST - FINAL GAME FOLDER
+=============================
+
+TO PLAY NOW
+Double-click CosmoTweest.exe.
+It creates or refreshes your desktop shortcut with the rocket icon.
+
+TO TAKE THE GAME TO ANOTHER COMPUTER
+1. Close the game before copying it.
+2. Copy this ENTIRE "CosmoTweest FINAL" folder to your USB drive or other PC.
+3. Put it in a writable location, such as that PC's Desktop or Documents.
+4. Double-click CosmoTweest.exe inside the copied folder.
+
+No installation is required. All game artwork, sound, and music are built in.
+The Data folder carries your scores, unlocked sectors, and settings with you.
+Do not remove Data or its portable.mode file. After moving the folder, run the
+EXE once from its new location to refresh that computer's desktop shortcut.
+Close the game before copying Data so its latest progress has been saved.
+
+OPTIONAL INSTALLATION
+CosmoTweestSetup.exe is the ONLY setup you need. Use it if you prefer to
+install on that computer, with shortcuts and an uninstaller. Administrator
+access is not required. On a new PC, setup imports the included Data profile
+if that Windows account does not already have CosmoTweest saved progress.
+An existing installed profile is preserved. Installed copies keep their own
+progress on that PC; copying this folder later carries the PORTABLE Data save.
+For the simplest travel workflow, play CosmoTweest.exe directly from this folder.
+
+CONTROLS
+Mouse: steer. Left mouse: fire. Right mouse: bomb. Middle mouse/Space: boost.
+Esc: pause. M: sound on/off. F11: fullscreen.
+Settings > Flight & Difficulty: Relaxed / Standard / Expert, and auto-fire.
+Collect gold upgrade cores to choose a ship path. Cyan cores equip drones.
+
+WHAT THE FOLDERS ARE
+Data     = your portable saved progress and preferences.
+Credits  = license and original asset credits.
+Source   = development/build/verification files; ignore this folder to play.
+
+FUTURE UPDATES
+This is the permanent final folder. Future builds update these same two EXEs
+and preserve Data. There is no need to choose among older edition folders.
+
+REQUIREMENTS
+Windows 10 or 11, 64-bit, with the normal Windows .NET Framework 4.x component.
+No Python, SDK, game-engine tools, downloads, or internet connection are needed.
+The game and setup are unsigned. A clean-PC physical installation has not
+been tested; local copy/relocation and installer payload checks are documented
+under Source/tests. The game must be copied off read-only media to save.
